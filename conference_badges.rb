@@ -24,6 +24,6 @@ end
 def printer(attendees)
   # print batch_badge_creator(attendees)
   binding.pry
-# attendees.each do |attendee|
+.each do |attendee|
 # end
 end
